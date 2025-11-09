@@ -3,6 +3,8 @@
 ## Overview
 This repository demonstrates how Meta’s **Conversions API (CAPI)** helps advertisers strengthen their marketing effectiveness through privacy-safe, server-side data connections.  
 By sending conversion events directly from the business’s server to Meta, companies are able to improve signal quality, campaign optimization, and measurable return on investment — even in a changing privacy landscape.  
+![Alt text](images/conversions-api-roi.png)
+
 
 Each case study below illustrates real-world results achieved through improved data accuracy, stronger event matching, and enhanced campaign performance after implementing Meta’s Conversions API.  
 
